@@ -1,0 +1,86 @@
+@CHARSET "UTF-8";
+body{
+	font-family:georgia;
+}
+
+#container{
+	width:700px;
+	margin:auto;
+	font-size:11pt;
+}
+
+#content {
+	position:relative;
+	top:15px;
+	z-index:-1;
+}
+
+#menu{
+	position:absolute;
+	margin-top:-1px;
+}
+
+#menu ul .item{
+	display:none;
+}
+#menu ul:hover .item{
+	display:block;
+	background:#000;
+	padding:1px;
+	margin:1px;
+}
+
+#menu ul:hover .item a{
+	color:#fff;
+	text-decoration:none;
+}
+
+#menu ul:hover .item a:hover{
+	color:#999;
+}
+
+#menu ul{
+	width:170px;
+	float:left;
+	margin:0px;
+	padding:2px;
+	background:#b10000;
+	list-style:none;
+	right:20%;
+}
+
+.clear{
+	clear:both;
+	height:10px;
+}
+
+input.username, input.password {
+	width:90px;
+}
+
+#header {
+	position:relative
+	border-style:solid;
+	border-width:1px;
+	width:100%;
+}
+
+td.inputbox {
+	text-align:right;
+}
+
+td.author {
+	text-align:right;
+}
+
+td.title {
+	text-align:center
+}
+
+h1.title {
+	font-size:15pt;
+}
+
+td.loginName {
+	text-align:right;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE applicant SYSTEM "/www/tomcat/cl304/data/residence.dtd">
+<accommodations>
+	<Swanbourgh>
+		<on_campus>yes</on_campus>
+		<desc>Situated in a central position on the campus opposite Bramber House, this new development consists of a number of self-contained cluster flats housing between 4 and 7 students. Four rooms have been specifically designed for students with a physical disability. Each flat has its own kitchen/dining room/lounge area and all rooms have ensuite bathrooms.</desc>
+    		<handbook>http://www.sussex.ac.uk/residentialservices/documents/swanborough_handbook_10-11_proof_41.pdf</handbook>
+    		<tenancy>40 weeks</tenancy>
+    		<rent>£120.50 per week</rent>
+    		<roomtype>en-suite</roomtype>
+    		<allocated_to>Undergraduates</allocated_to>
+    		<image>Swanborough1.jpg</image>
+    		<image>Swanborough2.jpg</image>
+  	</Swanbourgh>
+</accommodations>

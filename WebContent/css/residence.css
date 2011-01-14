@@ -1,0 +1,19 @@
+img {
+	display:inline;
+	margin:3px;
+	width:200px;
+	height:300px;
+}
+
+#tdHeader {
+	width:20%;
+}
+
+#hallName, #briefIntro{
+	text-align:center;
+}
+
+td.images {
+	text-align:center;
+}
+

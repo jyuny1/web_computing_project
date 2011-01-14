@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+table.applicationForm {
+	Position:fixed;
+	top:25%;
+	right:33%;
+	z-index:-1;
+}
+
+#errSpan, #titleOKSpan, #firstNameOKSpan, #lastNameOKSpan, #emailOKSpan, #canNumberOKSpan, #firstChoiseOKSpan, #secondChoiseOKSpan, #thirdChoiseOKSpan, #loginNameOKSpan, #passWordOKSpan, #entPassWordOKSpan {
+	color:white;
+}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accommodations>
+	<residence on_compus="yes">
+	<name>Swanbourgh</name>
+	<desc>Situated in a central position on the campus opposite Bramber House, this new development consists of a number of self-contained cluster flats housing between 4 and 7 students. Four rooms have been specifically designed for students with a physical disability. Each flat has its own kitchen/dining room/lounge area and all rooms have ensuite bathrooms.</desc>
+    <handbook>http://www.sussex.ac.uk/residentialservices/documents/swanborough_handbook_10-11_proof_41.pdf</handbook>
+    <tenancy>40 weeks</tenancy>
+    <rent>£120.50 per week</rent>
+    <roomtype>en-suite</roomtype>
+    <allocated_to>Undergraduates</allocated_to>
+    <image>Swanborough1.jpg</image>
+    <image>Swanborough2.jpg</image>
+  </residence>
+
+  <residence on_compus="yes">
+    <name>Brighthelm</name>
+    <desc>The Brighthelm Residences consist of 60 five-bedroom houses.  Some houses are allocated to postgraduates, and the rest to undergraduates. Houses have well equipped kitchens/diners (including washing machines and tumble driers). Each bedroom has its own washbasin and there are 2 bathrooms in each house.</desc>
+    <handbook>http://www.sussex.ac.uk/residentialservices/documents/brighthelm_handbook_10-11_proof4.pdf</handbook>
+    <tenancy>Undergraduates: 40 weeks, Postgraduates: 49 weeks</tenancy>
+    <rent>£106 per week</rent>
+    <roomtype>shared bathroom</roomtype>
+    <allocated_to>Undergraduates and Postgraduates</allocated_to>
+    <image>Brighthelm1.jpg</image>
+    <image>Brighthelm2.jpg</image>
+  </residence>
+
+  <residence on_comuse="yes">
+    <name>East Slope</name>
+    <desc>East Slope comprises 100 terraced single storey flats which are designed primarily for groups of six to twelve students. In addition there are 10 small flats for families, and eight small two-bed flats. All flats have kitchen/dining rooms, shower and toilet facilities. There is also a social centre which houses a lively student bar offering live music on some nights.</desc>
+    <handbook>http://www.sussex.ac.uk/residentialservices/documents/east_slope_handbook_10-11_proof4.pdf</handbook>
+    <tenancy>40 weeks</tenancy>
+    <rent>signal room: £77.00 per week, shared roome: £57-£69 per week</rent>
+    <roomtype>signal room or shared room</roomtype>
+    <allocated_to>Undergraduates and Postgraduates</allocated_to>
+    <image>East_Solpe1.jpg</image>
+    <image>East_Solpe22.jpg</image>
+  </residence>
+
+  <residence on_compus="yes">
+    <name>Stanmer Court</name>
+    <desc>Located opposite the entrance of the campus by Falmer station, this new development consists of a number of self-contained cluster flats housing between 4 and 6 students. Each flat has its own kitchen/dining-room/lounge area and all rooms have en-suite bathrooms. In addition, there are a number of single-person studio flats and accommodation for students with a physical disability.</desc>
+    <handbook>http://www.sussex.ac.uk/residentialservices/documents/stanmer_court_handbook_10-11_proof4.pdf</handbook>
+    <tenancy>40 weeks or 49 weeks</tenancy>
+    <rent>£108-116 per week</rent>
+    <roomtype>en-suite</roomtype>
+    <allocated_to>Undergraduates and Postgraduates</allocated_to>
+    <image>Stanmer_Court1.jpg</image>
+    <image>tanmer_Court2.jpg</image>
+  </residence>
+
+  <residence on_compus="yes">
+    <name>Lewes Court</name>
+    <desc>Located adjacent to Park Village at the back of the campus, Lewes Court consists of five/six person flats with a few studio and family flats. There are also several rooms specially designed for students with disabilities. Each flat has its own kitchen/dining room/lounge area. The majority of rooms in Phase 1 have a sink in each bedroom and one toilet/bathroom per flat. All Phase 2 rooms are en-suite.</desc>
+    <handbook>http://www.sussex.ac.uk/residentialservices/documents/lewes_court_handbook_10-11_proof4.pdf</handbook>
+    <tenancy>40 weeks</tenancy>
+    <rent>signal room: £102.50 per weeks, en-suite: £116.50 per week</rent>
+    <roomtype>shared bathroom or en-suite</roomtype>
+    <allocated_to>Undergraduates</allocated_to>
+    <image>Lewes_Court1.jpg</image>
+    <image>Lewes_Court2.jpg</image>
+  </residence>
+
+  <residence on_compus="yes">
+    <name>Park Houses</name>
+    <desc>The Park Houses consist in the main of single study bedrooms, each with a washbasin. The kitchens are   shared between approximately twelve students and bathroom/toilet facilities are shared between six students. Each House also has its own TV room. There are a few en-suite rooms available, but these are normally reserved for students with health problems.</desc>
+    <handbook>http://www.sussex.ac.uk/residentialservices/documents/park_houses_handbook_10-11_proof4.pdf</handbook>
+    <tenancy>40 weeks</tenancy>
+    <rent>signal room: £94.50 per week, en-suite: £113.25 per week</rent>
+    <roomtype>shared bathroom or en-suite</roomtype>
+    <allocated_to>Undergraduates</allocated_to>
+    <image>Park_House1.jpg</image>
+    <image>Park_House2.jpg</image>
+  </residence>
+
+  <residence on_compus="yes">
+    <name>Park Village</name>
+    <desc>The Park Village residences consist of adjoining three-storey houses which are laid out to form a pedestrian precinct. Each house consists of 12 single study bedrooms, two kitchens and bath, shower and toilet facilities. The bedrooms all have their own washbasins. The village consists of 468 single rooms, 24 small two-bed flats and 36 family flats. There is also a social centre which houses the manager's office, the porter's lodge and a large TV room and lounge area.  Between August 2010 and January 2011, the Housing Office will also be based in this centre.</desc>
+    <handbook>http://www.sussex.ac.uk/residentialservices/documents/park_village_handbook_10-11_proof4.pdf</handbook>
+    <tenancy>40 weeks or 49 weeks</tenancy>
+    <rent>signal room: £86.50 per week, shared flatlet: £81.00 per week</rent>
+    <roomtype>250 en-suite</roomtype>
+    <allocated_to>Undergraduates and Postgraduates</allocated_to>
+    <image>Park_Village1.jpg</image>
+    <image>PArk_Village2.jpg</image>
+  </residence>
+</accommodations>

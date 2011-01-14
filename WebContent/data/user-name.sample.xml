@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE applicant SYSTEM "/www/tomcat/cl304/data/applicant.dtd">
+<applicant>
+	<title>Mr.</title>
+	<firstName>Chun-Yi</firstName>
+	<lastName>Liu</lastName>
+	<email>cl304@sussex.ac.uk</email>
+	<canNumber>12345677</canNumber>
+	<firstChoise>Brighthelm</firstChoise>
+	<secondChoise>StanmerCourt</secondChoise>
+	<thirdChoise>ParkHouses</thirdChoise>
+	<loginName>jyuny1</loginName>
+	<passWord>12345</passWord>
+</applicant>

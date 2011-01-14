@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+th.custom {
+	font-size:1.1em;
+	text-align:left;
+	padding-top:5px;
+	padding-bottom:4px;
+	background-color:#A7C921;
+	color:black;
+}
+
+tr.custom {
+	color:#000000;
+	background-color:#EAF2D3;
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- the structure of XML file
+<applicantList>
+	<applicant>
+  		<userName></userName>
+  		<passWord></passWord>
+  		<title></title>
+  		<firstName></firstName>
+  		<lastName></lastName>
+  		<email></email>
+  		<canNumber></canNumber>
+  		<firstChoise></firstChoise>
+  		<secondChoise></secondChoise>
+  		<thirdChoise></thirdChoise>
+	</applicant>
+</applicantList>
+ -->
+<!ELEMENT applicantList (applicant)>
+<!ELEMENT applicant (userName, passWord, title, firstName, lastName, email, canNumber, firstChoise, secondChoise, thirdChoise)>
+<!ELEMENT userName (#PCDATA)>
+<!ELEMENT passWord (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT firstName (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT canNumber (#PCDATA)>
+<!ELEMENT firstChoise (#PCDATA)>
+<!ELEMENT secondChoise (#PCDATA)>
+<!ELEMENT thirdChoise (#PCDATA)>
